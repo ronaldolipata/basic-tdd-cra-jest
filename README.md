@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Basic Test-Driven Development in React with Jest
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Test a counter that adds or substracts from each click.
 
 ## Available Scripts
 
